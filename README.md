@@ -42,9 +42,18 @@ claims. Question: how do we define a similar mechasnism for tangles?
 Preferably in a way that does not require them to be defined a priori.
 
 One point to note is that meta feeds and set replication on messages
-defined in feeds are both backwards compatible with existing clients.
+defined in feeds are both backwards compatible with existing
+clients. The set replication algorithm is very general and can be used
+in settings where there are not even feeds just single messages
+written by a key.
 
 
 Open problems:
  - same-as (linked feeds or identity tangles)
  - combine set replication with EBT
+ - would it be possible to define views on top of messages instead of
+   baking that into the messages. If so, how does that work in a group
+   setting? Is that similar to [embedded
+   indexes](https://github.com/hypercore-protocol/p2p-indexing-and-search/blob/main/problems/07.md)
+   in hypercore?
+
