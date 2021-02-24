@@ -57,3 +57,4 @@ Open problems:
    indexes](https://github.com/hypercore-protocol/p2p-indexing-and-search/blob/main/problems/07.md)
    in hypercore?
 
+FIXME: Compare the set replication with https://martin.kleppmann.com/2020/12/02/bloom-filter-hash-graph-sync.html
