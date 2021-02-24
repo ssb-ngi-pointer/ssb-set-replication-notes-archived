@@ -1,5 +1,7 @@
 ---
 tags: ssb, protocol
+author: @keks
+date: copied from hackmd on 2021-02-24
 ---
 $$
 \newcommand{\mathfn}[1]{\mathsf{#1}}
