@@ -95,6 +95,8 @@ Open problems:
  - same-as (linked feeds or identity tangles)
  - combine set replication with EBT (subscribe to tangles instead of feeds)
 
+Latest set replication proposal: https://hackmd.io/mPmWbNaDR9-AfrM1mSYtHQ
+
 FIXME: Compare the set replication with:
  - https://martin.kleppmann.com/2020/12/02/bloom-filter-hash-graph-sync.html
  - Twitter discussion about link above: https://twitter.com/pvh/status/1384635288836661252
