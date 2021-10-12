@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2021 Anders Rune Jensen
+
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
 # SSB set replication notes
 
 This contains loose thoughts on SSB feeds, meta feeds and set
